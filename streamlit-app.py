@@ -23,6 +23,7 @@ if sidebar == "Home":
     st.header("Assess and boost your semester performance")
     st.markdown("""
     *Dear Student,*
+    
     *We warmly welcome you to our website. Enter relevant factors and calculate your provisional grade for the semester.*
     *Good luck! 🍀*
     """)
